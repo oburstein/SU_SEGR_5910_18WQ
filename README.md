@@ -8,9 +8,11 @@
 Customer demand for new features and Agile practices have created a virtuous feedback cycle. However, getting those demanded new features to the customer as fast as possible requires a completely different approach to the release phase of the SDLC. This course will address the combination of Development and Operations known as DevOps. We will cover organizational structures, tooling, process management, and change control from the perspective of a fast-release self-reliant development organization.
 
 ## Course Learning Objectives
-* Thing 1
-* Thing 2
-* Thing 3
+* Process and organizational pros / cons of a DevOps model
+* The economic impact(s) of moving to DevOps
+* Relationship between Agile and DevOps
+* Tooling and engineering processes
+* Architecture for DevOps
 
 ## Reading Materials
 [**DevOps: A Software Architect's Perspective**](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)<br/>
