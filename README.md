@@ -1,4 +1,4 @@
-# SEGR 5910 17FQ - DevOps from the Architect's Perspective
+# SEGR 5910 18WQ - DevOps from the Architect's Perspective
 
 **Schedule**: Thursdays in Engineering XYZ, 6:00pm to 8:40pm<br/>
 **Instructor**: Michaeljon Miller <michaeljon.miller@outlook.com><br/>
@@ -25,6 +25,7 @@ ISBN-10: 0134049845<br/>
 * Another date (final exam)
 
 ## Tentative list of topics / schedule
+We'll follow the text closely, but expect to deviate on occasion. When we do this we will follow in-class materials as well as materials that I recommend from the web. These will include general papers, articles, and tools documentation.
 * Topic 1
 * Topic 2
 * Topic 3
