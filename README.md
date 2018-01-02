@@ -21,8 +21,10 @@ ISBN-13: 978-0134049847<br/>
 ISBN-10: 0134049845<br/>
 
 ## Important Dates
-* A date (mid-term)
-* Another date (final exam)
+* 1 Feb or 8 Feb - Mid-term exam
+* 8 February - In-class docker project presentation
+* 22 February - In-class team presentations
+* 22 March - Final exam, location TBD
 
 ## Tentative list of topics / schedule
 We'll follow the text closely, but expect to deviate on occasion. When we do this we will follow in-class materials as well as materials that I recommend from the web. These will include general papers, articles, and tools documentation.
