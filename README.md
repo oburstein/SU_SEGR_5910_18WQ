@@ -26,11 +26,65 @@ ISBN-10: 0134049845<br/>
 
 ## Tentative list of topics / schedule
 We'll follow the text closely, but expect to deviate on occasion. When we do this we will follow in-class materials as well as materials that I recommend from the web. These will include general papers, articles, and tools documentation.
-* Topic 1
-* Topic 2
-* Topic 3
-* Topic 4
-* Topic 5...
+
+### 4 Jan
+* Course overview, introductions, syllabus, course rules and regulations
+* What is Dev
+* What is TechOps
+* What happens when you try to shorten the time window
+* What is DevOps
+
+### 11 Jan
+* Cloud as a platform
+* Operations
+* Embracing risk
+* Service level objectives
+
+### 18 Jan
+* CI/CD - Overall architecture
+* CI/CD - Test automation
+* Architecting for risk
+
+### 25 Jan
+* CI/CD - Deployment strategies
+* Building containers with docker
+* Docker project assignment
+
+### 1 Feb
+* Monitoring / alerting techniques
+* Telemetry
+* A/B testing and canary release
+* Providing a feedback loop
+
+### 8 Feb - docker project due
+* Overview of threat modeling
+* Security audits
+* CI/CD - Compliance management and security
+
+### 15 Feb
+* General architectural considerations
+* Designing systems for DevOps
+* Business considerations
+
+### 22 Feb - Team presentations
+* Case study presentations on chapters 11, 12, and 13
+
+### 1 Mar
+* How to be on-call
+* Troubleshooting techniques
+* Communication and collaboration
+
+### 8 Mar
+* Load balancing strategies
+* Dealing with overload
+* Cascading failures and SLOs revisited
+	
+### 15 Mar
+* Operations as a process
+* Where do we go from here
+* Final exam review
+
+### 22 Mar - Final exams due
 
 ## Grading
 This class is graded on the following scale. Over the course of the quarter you will be given, via homework, exams, projects, and participation, the opportunity to earn 100 points. Exams may include an "extra credit" opportunity. An "A" grade is easily achievable in my courses, but you will need to put in the work.
