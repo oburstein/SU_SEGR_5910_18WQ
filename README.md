@@ -21,68 +21,68 @@ ISBN-13: 978-0134049847<br/>
 ISBN-10: 0134049845<br/>
 
 ## Important Dates
-* 1 Feb or 8 Feb - Mid-term exam
-* 8 February - In-class docker project presentation
-* 22 February - In-class team presentations
+* 8 Feb or 15 Feb - Mid-term exam
+* 15 February - In-class docker project presentation
+* 1 Mar - In-class team presentations
 * 22 March - Final exam, location TBD
 
 ## Tentative list of topics / schedule
 We'll follow the text closely, but expect to deviate on occasion. When we do this we will follow in-class materials as well as materials that I recommend from the web. These will include general papers, articles, and tools documentation.
 
-### 4 Jan
+### 11 Jan
 * Course overview, introductions, syllabus, course rules and regulations
 * What is Dev
-* What is TechOps
+* What is Operations
 * What happens when you try to shorten the time window
 * What is DevOps
+* Why is this a people problem
+* Communication and collaboration revisited
 
-### 11 Jan
+### 18 Jan
 * Cloud as a platform
 * Operations
 * Embracing risk
 * Service level objectives
 
-### 18 Jan
+### 25 Jan
 * CI/CD - Overall architecture
 * CI/CD - Test automation
 * Architecting for risk
 
-### 25 Jan
+### 1 Feb
 * CI/CD - Deployment strategies
 * Building containers with docker
 * Docker project assignment
 
-### 1 Feb
+### 8 Feb
 * Monitoring / alerting techniques
 * Telemetry
 * A/B testing and canary release
 * Providing a feedback loop
 
-### 8 Feb - docker project due
+### 15 Feb - docker project due
 * Overview of threat modeling
 * Security audits
 * CI/CD - Compliance management and security
 
-### 15 Feb
+### 22 Feb
 * General architectural considerations
 * Designing systems for DevOps
 * Business considerations
 
-### 22 Feb - Team presentations
+### 1 Mar - Team presentations
 * Case study presentations on chapters 11, 12, and 13
 
-### 1 Mar
+### 8 Mar
 * How to be on-call
 * Troubleshooting techniques
-* Communication and collaboration
+* Communication and collaboration revisited
+* Operations as a process
 
-### 8 Mar
+### 15 Mar
 * Load balancing strategies
 * Dealing with overload
 * Cascading failures and SLOs revisited
-	
-### 15 Mar
-* Operations as a process
 * Where do we go from here
 * Final exam review
 
