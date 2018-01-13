@@ -1,6 +1,6 @@
 # SEGR 5910 18WQ - DevOps from the Architect's Perspective
 
-**Schedule**: Thursdays in Engineering XYZ, 6:00pm to 8:40pm<br/>
+**Schedule**: Thursdays in PIGT 205, 6:00pm to 8:40pm<br/>
 **Instructor**: Michaeljon Miller <michaeljon.miller@outlook.com><br/>
 **Office hours**: Thursday before class or by appointment
 
@@ -20,6 +20,9 @@ Len Bass, Ingo Weber, and Liming Zhu<br/>
 ISBN-13: 978-0134049847<br/>
 ISBN-10: 0134049845<br/>
 
+[**Google's SRE book**](https://landing.google.com/sre/book.html)<br/>
+Availabe for free at the above link or from O'Reilly via your favorite book seller
+
 ## Important Dates
 * 8 Feb or 15 Feb - Mid-term exam
 * 15 February - In-class docker project presentation
@@ -36,7 +39,7 @@ We'll follow the text closely, but expect to deviate on occasion. When we do thi
 * What happens when you try to shorten the time window
 * What is DevOps
 * Why is this a people problem
-* Communication and collaboration revisited
+* Communication and collaboration
 
 ### 18 Jan
 * Cloud as a platform
