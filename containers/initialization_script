@@ -1,5 +1,5 @@
 #!/bin/bash
-mkdir /application && cd /application
+cd /application
 
 wget http://ipinfo.io/ip -qO - > ./hostip
 nodejs ./ipshow.js
