@@ -28,9 +28,9 @@ Availabe for free at the above link or from O'Reilly via your favorite book sell
 
 ## Important Dates
 
-* 8 Feb or 15 Feb - Mid-term exam
-* 15 February - In-class docker project presentation
-* 1 Mar - In-class team presentations
+* 15 Feb - Mid-term exam
+* 22 February - In-class docker project presentation
+* 8 Mar - In-class team presentations
 * 22 March - Final exam, location TBD
 
 ## Tentative list of topics / schedule
@@ -85,16 +85,16 @@ We'll follow the text closely, but expect to deviate on occasion. When we do thi
 * Designing systems for DevOps
 * Business considerations
 
-### 1 Mar - Team presentations
-
-* Case study presentations on chapters 11, 12, and 13
-
-### 8 Mar
+### 1 Mar
 
 * How to be on-call
 * Troubleshooting techniques
 * Communication and collaboration revisited
 * Operations as a process
+
+### 8 Mar - Team presentations
+
+* Case study presentations on chapters 11, 12, and 13
 
 ### 15 Mar
 
