@@ -118,8 +118,8 @@ This is a tentative break-down, I'll adjust during the first week of class based
 
 * Mid-term exam 20%
 * Final exam 30%
-* Team project 20%
-* Individual assignments 20%
+* Team project 25%
+* Individual assignments 15%
 * Classroom participation 10%
 
 Software engineering is a team process and one of the most important parts of that is communication. This includes both written and verbal. As such, the exams will be essay format (to include requirements artifacts as necessary). I also expect full classroom participation in discussions. Feel free to voice your opinions and disagree with what you're learning. That's part of the process. But do so in a respectful manner.
