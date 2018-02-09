@@ -29,7 +29,7 @@ Availabe for free at the above link or from O'Reilly via your favorite book sell
 ## Important Dates
 
 * 15 Feb - Mid-term exam
-* 22 February - In-class docker project presentation
+* 22 February - Individual assignment due
 * 8 Mar - In-class team presentations
 * 22 March - Final exam, location TBD
 
@@ -69,18 +69,18 @@ We'll follow the text closely, but expect to deviate on occasion. When we do thi
 ### 8 Feb
 
 * Monitoring / alerting techniques
-* Telemetry
-* A/B testing and canary release
-* Providing a feedback loop
+* Mid-term review
 
-### 15 Feb - docker project due
+### 15 Feb
 
 * Overview of threat modeling
 * Security audits
 * CI/CD - Compliance management and security
+* **Mid-term exam**
 
-### 22 Feb
+### 22 Feb - docker project due
 
+* A/B testing and canary release
 * General architectural considerations
 * Designing systems for DevOps
 * Business considerations
