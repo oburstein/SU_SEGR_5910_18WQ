@@ -30,7 +30,7 @@ The developers have made an application artifact available via a public URL.
 
 This is a zip file with the built application, as well all the static assets. You can download the zip file from here:
 
-https://s3-us-west-2.amazonaws.com/techops-interview-webapp/webapp.tar.gz
+https://github.com/michaeljon/SU_SEGR_5910_18WQ/blob/master/webapp.tar.gz
 
 (The application implements https://github.com/kubernetes/kubernetes/tree/master/examples/guestbook-go)
 
