@@ -32,7 +32,7 @@ This is a zip file with the built application, as well all the static assets. Yo
 
 https://github.com/michaeljon/SU_SEGR_5910_18WQ/blob/master/webapp.tar.gz
 
-(The application implements https://github.com/kubernetes/kubernetes/tree/master/examples/guestbook-go)
+(The application implements https://github.com/michaeljon/SU_SEGR_5910_18WQ/tree/master/project)
 
 The application developers wish for you to create a deployment process for the application, which is repeatable. The developers feel very strongly that they should be able to:
 
@@ -42,6 +42,16 @@ The application developers wish for you to create a deployment process for the a
 * You can target any (additional) technologies you wish to solve this problem. The only requirement is that clear instructions are provided for a novice user to be able to follow to get a stack running.
 
 A production grade deployment solution is not required at this time, however consideration for the long term future of the application will be looked upon favourably.
+
+### Some additional comments and notes
+
+The footprint of the running project should be a web server (implemented by the application main.go), 
+and the necessary redis server(s). `main.go` expects to connect to two redis servers. The first,
+called `redis-master` is used for write operations, and the second, called `redis-slave` is used for 
+offloading read operations.
+
+You can connect the slave to the master using a command like: `redis-server --slaveof redis-master 6379`. This
+tells the redis server to start and connect to a second server called `redis-master` on port 6379.
 
 ### Outputs
 The final output should be a git repository with the following:
